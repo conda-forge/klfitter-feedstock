@@ -15,7 +15,7 @@ source:
     - configurable-static-library-build.patch
 
 build:
-  number: 0
+  number: 1
   skip:
     - win
   script:
